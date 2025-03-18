@@ -1,0 +1,7 @@
+D:\Amikom\Asprak\Pemrogramman\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe.config
+D:\Amikom\Asprak\Pemrogramman\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe
+D:\Amikom\Asprak\Pemrogramman\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.pdb
+D:\Amikom\Asprak\Pemrogramman\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.AssemblyReference.cache
+D:\Amikom\Asprak\Pemrogramman\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.CoreCompileInputs.cache
+D:\Amikom\Asprak\Pemrogramman\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.exe
+D:\Amikom\Asprak\Pemrogramman\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.pdb
